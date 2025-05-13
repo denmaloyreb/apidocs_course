@@ -1,3 +1,3 @@
-# Репозиторий с документацией приложения `Prometheus exporter for Nimble SRT`
+# Репозиторий с курсом по проектированию и документированию API для технических писателей
 
-[Сайт](https://denmaloyreb.github.io/denmaloyreb-prometheus_exporter_for_Nimble_SRT_docs/#/) с документацией.
+[Сайт](https://denmaloyreb.github.io/apidocs_course/#/) курса.
