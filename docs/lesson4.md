@@ -50,7 +50,7 @@ Result: API.slate/
 
 ![Успешный пайплайн](images/pipeline.png)
 
-А в разделе `Deploy -> Pages` — ссылка на собранный сайт (см. скрины в комментариях к посту). Мой сайт, например, опубликовался по адресу [https://foliant-slate-starterpack-denmaloyreb-3e71c2e3b035c652b35456b60.gitlab.io](https://foliant-slate-starterpack-denmaloyreb-3e71c2e3b035c652b35456b60.gitlab.io).
+А в разделе `Deploy -> Pages` — ссылка на собранный сайт (см. скрины в комментариях к посту). Мой сайт, например, опубликовался по адресу [https://api-docs-foliant-slate-starterpack-1c1fb4.gitlab.io](https://api-docs-foliant-slate-starterpack-1c1fb4.gitlab.io/#-).
 
 ![Раздел Deploy -> Pages](images/site_link.png)
 
